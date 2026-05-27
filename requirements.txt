@@ -1,0 +1,11 @@
+streamlit
+pandas
+langchain
+langchain-openai
+langchain-google-genai
+langchain-community
+chromadb
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+python-dotenv
